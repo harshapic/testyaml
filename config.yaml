@@ -7,4 +7,4 @@ resource_groups:
   "rg02":
     location: "Two"
     tags:
-      description: "This is a second resource group"                                            
+      description: "This is a second resource group"                                       
