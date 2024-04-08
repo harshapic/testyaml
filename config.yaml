@@ -1,5 +1,5 @@
 ---
-resource_groups:
+resource_groups1:
   "rg01":
     location: "One"
     tags:
